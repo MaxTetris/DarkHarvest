@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roguegame", "Roguegame.csproj", "{307A88A0-845B-4E09-95EE-22E31EBD7CED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DarkHarvest", "DarkHarvest.csproj", "{307A88A0-845B-4E09-95EE-22E31EBD7CED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
